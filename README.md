@@ -119,8 +119,7 @@ The system integrates **structured databases + document-based knowledge reposito
 - Logs queries and usage statistics  
 
 ---
-**##output
-**
+## output 
 
 <img width="1280" height="477" alt="image" src="https://github.com/user-attachments/assets/c80f0b48-cd20-4a3d-b928-3e7bf9facbeb" />
 
