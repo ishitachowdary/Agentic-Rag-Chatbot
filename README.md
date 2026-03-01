@@ -119,6 +119,14 @@ The system integrates **structured databases + document-based knowledge reposito
 - Logs queries and usage statistics  
 
 ---
+**##output
+**
+
+<img width="1280" height="477" alt="image" src="https://github.com/user-attachments/assets/c80f0b48-cd20-4a3d-b928-3e7bf9facbeb" />
+
+<img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/f5810b4f-6026-496e-99d9-458e6f880d74" />
+
+
 
 ## ✅ Results & Benefits
 - High accuracy and grounded responses (>95% correctness)  
